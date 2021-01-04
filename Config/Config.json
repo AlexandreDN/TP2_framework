@@ -1,0 +1,34 @@
+{
+  "name": "schema project",
+  "csvOption": {
+    "header": "false",
+    "interSchema": "false",
+    "delimiter": ","
+  },
+  "fields":[
+    {
+      "date": "02112020",
+      "fillWithDaysAgo": 0
+    },
+    {
+      "date": "03112020",
+      "fillWithDaysAgo": 1
+    },
+    {
+      "date": "04112020",
+      "fillWithDaysAgo": 0
+    },
+    {
+      "date": "05112020",
+      "fillWithDaysAgo": 0
+    },
+    {
+      "date": "06112020",
+      "fillWithDaysAgo": 2
+    },
+    {
+      "date": "07112020",
+      "fillWithDaysAgo": 2
+    }
+  ]
+}
